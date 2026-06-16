@@ -370,19 +370,6 @@ The long-term goal is to contribute practical methods for identifying toxic perm
 
 This project serves as a foundation for future research in cloud security and graph analytics.
 
-Planned research publication:
-
-**Graph-Based Privilege Escalation Detection in AWS IAM Environments**
-(Target Publication: Q4 2026)
-
-Research topics include:
-
-* Attack graph generation
-* IAM misconfiguration detection
-* Cloud privilege escalation modeling
-* Graph neural networks for security analysis
-* Automated remediation recommendation systems
-
 ---
 
 # License
