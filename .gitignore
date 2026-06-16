@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# AWS credentials
+.aws/
+credentials
+config
+
+# Generated files
+*.gpickle
+*.png
+*.csv
+*.log
+outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive
+secrets/
+*.pem
+*.key
